@@ -2,6 +2,12 @@
 'Landscape resilience analysis'
 
 STA’s Rstudio Model’s Codes
+(Please contact author for more information about the access)
+
+
+
+
+
 
 library(waveletComp)
 library(zoo)
